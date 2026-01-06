@@ -1,2 +1,2 @@
-# sameer
+# MRI
 Author - Sameer Shinde 
