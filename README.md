@@ -1,6 +1,7 @@
 Siemens MRI software is structured
 Author - Sameer Shinde 
 <br>
+<br>
 import pypulseq as pp
 import numpy as np
 
